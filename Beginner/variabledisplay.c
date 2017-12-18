@@ -7,6 +7,6 @@ float batodi=44.83;
 printf("%s \n",name);
 printf("%s \n",nickname);
 printf("%d \n",runodi);
-printf("%f \n",batodi);
+printf("%.2f \n",batodi);
 printf("%d \n",matchodi);
 }
