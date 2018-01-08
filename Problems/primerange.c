@@ -6,7 +6,7 @@ clrscr();
 printf("\nEnter the limit:");
 scanf("\n %d \n %d", &lower,&upper);
 printf("\nPrime numbers are:");
-for(n=lower+1;n<upper;n++)
+for(n=lower;n<=upper;n++)
 {
 prime=1;
 for(i=2;i<n/2;i++)
