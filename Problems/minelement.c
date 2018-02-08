@@ -13,7 +13,7 @@ int main()
     for(i=0;i<n;i++)
     {
     m=0;
-	  if(a[i]>a[i+1])
+	  if(a[i]<a[i+1])
     {
 	  m=a[i];
     }
