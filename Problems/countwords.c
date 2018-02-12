@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-char s[100];
+char s[200];
 int count=0,i;
 clrscr();
 printf("\n Enter the sentence:");
